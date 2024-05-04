@@ -1,6 +1,4 @@
-# C
-
-ompany-And-Employee-Api-Django
+# Company-And-Employee-Api-Django
 
 Description:
 
